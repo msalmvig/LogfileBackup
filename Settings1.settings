@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogfileBackup" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogsDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\NeverwinterNights\NWN</Value>
+    </Setting>
+    <Setting Name="LogDirNamePrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">logs</Value>
+    </Setting>
+    <Setting Name="LogBackupDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\NeverwinterNights\LogArchive</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
